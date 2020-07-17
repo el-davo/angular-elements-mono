@@ -1065,6 +1065,16 @@
     merge-source-map "^1.1.0"
     schema-utils "^2.6.4"
 
+"@ngrx/store-devtools@^9.2.0":
+  version "9.2.0"
+  resolved "https://registry.npmjs.org/@ngrx/store-devtools/-/store-devtools-9.2.0.tgz#298b86b0c4ea483313b67d64a68b2d3376a5a04f"
+  integrity sha512-/FvgcpjO4IvwNFnRVoHGikAvckr6fxKf4NgYoTQ9giI8xavolLvuQUHxzH20legi5dgZz34ii2m2g1Q7OxEV8w==
+
+"@ngrx/store@^9.2.0":
+  version "9.2.0"
+  resolved "https://registry.npmjs.org/@ngrx/store/-/store-9.2.0.tgz#39f663f98b5332b33c8d197be3ab08bafd85bc88"
+  integrity sha512-V8AI3mxbMztVpbZpALkLZYlGkofKcu9GaOCY5e+sZ1VcJ90oxhFjBpnmd6MuVdmhep1XAHALb1B8ZbBFn+xsgQ==
+
 "@ngtools/webpack@10.0.3":
   version "10.0.3"
   resolved "https://registry.npmjs.org/@ngtools/webpack/-/webpack-10.0.3.tgz#2f8b2674108f7c36ffcdfc9e9aa024abfe3c7e04"
